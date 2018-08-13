@@ -1,7 +1,6 @@
 # Summary
 
 * [韩宇](README.md)
-* [项目简介](README.md)
 * [小程序](docs/小程序/逆向小程序.md)
     *[逆向小程序](docs/小程序/逆向小程序.md) 
 * [gitbook](docs/gitbook/初次安装并运行.md)
